@@ -1,5 +1,5 @@
 import  {
-    Meme,airBnb,Foodies,DiceGame,Mapty,Hulu,Bankist,Forkify,Linkedin
+    Meme,airBnb,Foodies,DiceGame,Mapty,Hulu,Bankist,Forkify,Linkedin,FelCloud
 } from './workImg'
 
 const WORK = [
@@ -47,6 +47,11 @@ const WORK = [
     img: Linkedin,
     name: "Linkedin Clone",
     link: "https://github.com/BahaKhmeissi/LinkidinClone",
+  },
+  {
+    img: FelCloud,
+    name: "FelCloud App",
+    link: "https://baha-dev.felcloud.io/",
   },
 ];
 

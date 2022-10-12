@@ -7,8 +7,9 @@ import Hulu from "../assets/hulu.PNG";
 import Bankist from "../assets/Bankist.PNG";
 import Forkify from "../assets/forkify.PNG";
 import Linkedin from "../assets/linkedin.PNG";
+import FelCloud from "../assets/FelCloud.PNG";
 
 
 export {
-    Meme,airBnb,Foodies,DiceGame,Mapty,Hulu,Bankist,Forkify,Linkedin
+    Meme,airBnb,Foodies,DiceGame,Mapty,Hulu,Bankist,Forkify,Linkedin,FelCloud
 }

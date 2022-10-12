@@ -1,32 +1,22 @@
 import {
-  CSS,
-  JavaScript,
-  GitHub,
-  html,
+  Git,
   Reacty,
-  wordpress,
   Tailwind,
   node,
   Express,
-  MongoDB
+  MongoDB,
+  Python,
+  Bootstrap,
+  Flask
 } from "./images";
 
 const SKILLS = [
-  // {
-  //   alt: "HTML icon",
-  //   logo: html,
-  //   name: "HTML",
-  // },
+
   {
     alt: "MongoDB icon",
     logo: MongoDB,
     name: "MongoDB",
   },
-  // {
-  //   alt: "CSS icon",
-  //   logo: CSS,
-  //   name: "CSS",
-  // },
   {
     alt: "Express icon",
     logo: Express,
@@ -35,7 +25,7 @@ const SKILLS = [
   {
     alt: "React icon",
     logo: Reacty,
-    name: "React",
+    name: "React js",
   },
   {
     alt: "Node icon",
@@ -43,28 +33,33 @@ const SKILLS = [
     name: "Node js"
   }, 
   {
-    alt: "Js icon",
-    logo: JavaScript,
-    name: "JavaScript",
+    alt: "Bootstrap icon",
+    logo: Bootstrap,
+    name: "Bootstrap",
   },
-  
   {
     alt: "TCSS icon",
     logo: Tailwind,
     name: "Tailwind CSS",
   },
-
-  
   {
-    alt: "WordPress icon",
-    logo: wordpress,
-    name: "WordPress",
+    alt: "Flask icon",
+    logo: Flask,
+    name:"Flask"
   },
   {
-    alt: "GitHub icon",
-    logo: GitHub,
-    name: "GitHub",
+    alt: "Python icon",
+    logo: Python,
+    name: "Python",
   },
+  {
+    alt: "Git icon",
+    logo: Git,
+    name: "Git",
+  },
+ 
+ 
+ 
  
 ];
 

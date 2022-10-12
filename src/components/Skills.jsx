@@ -47,7 +47,7 @@ const Skills = () => {
         >
           {SKILLS.map(({ alt, logo, name }, index) => (
             <div className={skillsCard} key={index.toString()}>
-              <img className={skillsImg} src={logo} alt={alt} />
+              <img className={skillsImg} src={logo} alt={alt}  />
               <p className={skillsP}>{name}</p>
             </div>
           ))}
